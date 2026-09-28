@@ -1,7 +1,7 @@
 # Investigation Evidence
 
-This directory contains selected evidence supporting the Credential Phishing Kit Investigation.
+This directory contains the complete screenshot evidence set for the Credential Phishing Kit Investigation.
 
-The artifacts document key stages of the investigation, including email and attachment analysis, Base64 decoding, credential-harvesting infrastructure, phishing-kit analysis, file hashing, threat-intelligence analysis, and server-side source-code inspection.
+The artifacts are arranged in chronological order and document the investigation from phishing-email review through attachment analysis, redirect tracing, phishing infrastructure review, phishing-kit analysis, threat-intelligence analysis, captured-credential review, source-code inspection, and final lab validation.
 
-Only evidence relevant to the investigative findings is included. Credential values and other unnecessary sensitive information have been excluded from the public repository.
+> **Lab Environment Notice:** All artifacts shown here originate from a controlled, non-production cybersecurity lab environment. Names, credentials, infrastructure, and incident data presented as part of the scenario are fictitious or lab-generated and do not represent real user credentials or production systems.
